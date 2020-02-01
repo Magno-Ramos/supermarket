@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Supermarket</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Entrar</string>
+    <string name="loading">Carregando..</string>
+    <string name="error_password">Invalid password</string>
+    <string name="error_email">Invalid email</string>
+    <string name="welcome">Bem vindo</string>
+</resources>
